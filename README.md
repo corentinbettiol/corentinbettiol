@@ -38,11 +38,11 @@ and I have a [personal website](https://l3m.in) (in french).
 
 ----
 
-Latest dev.to blog posts:
+# dev.to blog posts
 
-[How to make super duper shadows for your screenshots](https://dev.to/corentinbettiol/how-to-make-super-duper-shadows-for-your-screenshots-2m17)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-[Django check SEO - a cool django/django-cms plugin](https://dev.to/corentinbettiol/django-check-seo-3ljk)
 
 ----
 
