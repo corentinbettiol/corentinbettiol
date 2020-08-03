@@ -24,7 +24,7 @@ and I have a [personal website](https://l3m.in) (in french).
 
 * [dev.to](https://dev.to/corentinbettiol)
 
-* [personnal website](https://l3m.in)
+* [personal website](https://l3m.in)
 
 * [stackoverflow](https://stackoverflow.com/users/6813732/sodimel)
 
