@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="src/avatar.png" />
+<img src="https://raw.githubusercontent.com/corentinbettiol/corentinbettiol/master/src/avatar.png" />
 
 <i>I'm Corentin Bettiol, french full stack dev.</i>
 
