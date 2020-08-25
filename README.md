@@ -41,6 +41,7 @@ and I have a [personal website](https://l3m.in) (in french).
 # dev.to blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What are your favorite articles on dev.to?](https://dev.to/corentinbettiol/what-are-your-favorite-articles-on-dev-to-2c55)
 - [How to make super duper shadows for your screenshots](https://dev.to/corentinbettiol/how-to-make-super-duper-shadows-for-your-screenshots-2m17)
 - [Random gists](https://dev.to/corentinbettiol/random-gists-1h79)
 - [Custom emoji cursors with SVG](https://dev.to/corentinbettiol/custom-emoji-cursors-with-svg-4hhb)
