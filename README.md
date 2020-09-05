@@ -41,11 +41,11 @@ and I have a [personal website](https://l3m.in) (in french).
 # dev.to blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to efficiently download thousands of files?](https://dev.to/corentinbettiol/how-to-efficiently-download-thousands-of-files-1ml3)
 - [What are your favorite articles on dev.to?](https://dev.to/corentinbettiol/what-are-your-favorite-articles-on-dev-to-2c55)
 - [How to make super duper shadows for your screenshots](https://dev.to/corentinbettiol/how-to-make-super-duper-shadows-for-your-screenshots-2m17)
 - [Random gists](https://dev.to/corentinbettiol/random-gists-1h79)
 - [Custom emoji cursors with SVG](https://dev.to/corentinbettiol/custom-emoji-cursors-with-svg-4hhb)
-- [Django check SEO - A cool django/django-cms plugin](https://dev.to/corentinbettiol/django-check-seo-3ljk)
 <!-- BLOG-POST-LIST:END -->
 
 
