@@ -41,11 +41,11 @@ and I have a [personal website](https://l3m.in) (in french).
 # dev.to blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Share some blazing fast and lightweight websites](https://dev.to/corentinbettiol/share-some-blazing-fast-and-lightweight-websites-17g7)
 - [What is the lighthouse score of your porfolio/personal website (and why)?](https://dev.to/corentinbettiol/what-is-the-lighthouse-score-of-your-porfolio-and-why-5h9f)
 - [How to efficiently download thousands of files?](https://dev.to/corentinbettiol/how-to-efficiently-download-thousands-of-files-1ml3)
 - [What are your favorite articles on dev.to?](https://dev.to/corentinbettiol/what-are-your-favorite-articles-on-dev-to-2c55)
 - [How to make super duper shadows for your screenshots](https://dev.to/corentinbettiol/how-to-make-super-duper-shadows-for-your-screenshots-2m17)
-- [Random gists](https://dev.to/corentinbettiol/random-gists-1h79)
 <!-- BLOG-POST-LIST:END -->
 
 
