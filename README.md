@@ -12,7 +12,9 @@ I created [Django check SEO](https://github.com/kapt-labs/django-check-seo),
 
 I like climbing & hiking,
 
-and I have a [personal website](https://l3m.in) (in french).
+I have a [personal website](https://l3m.in) (in french),
+
+and a [profile on ![](https://up.l3m.in/file/1607031888.png)](https://spacehey.com/sodimel)!!!!
 
 </div>
 
