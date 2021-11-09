@@ -47,7 +47,7 @@ and a [profile on ![](https://up.l3m.in/file/1607031888.png)](https://spacehey.c
 - [How to hide a tag on dev.to](https://dev.to/corentinbettiol/how-to-hide-a-tag-on-dev-to-2fc8)
 - [What do you think about 1MB.club?](https://dev.to/corentinbettiol/what-do-you-think-about-1mb-club-4fjn)
 - [Share some blazing fast and lightweight websites](https://dev.to/corentinbettiol/share-some-blazing-fast-and-lightweight-websites-17g7)
-- [What is the lighthouse score of your porfolio/personal website (and why)?](https://dev.to/corentinbettiol/what-is-the-lighthouse-score-of-your-porfolio-and-why-5h9f)
+- [What is the lighthouse score of your porfolio/personal website &lpar;and why&rpar;?](https://dev.to/corentinbettiol/what-is-the-lighthouse-score-of-your-porfolio-and-why-5h9f)
 <!-- BLOG-POST-LIST:END -->
 
 
