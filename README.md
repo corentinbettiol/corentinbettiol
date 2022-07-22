@@ -24,31 +24,28 @@ and a [profile on ![](https://up.l3m.in/file/1607031888.png)](https://spacehey.c
 
 ## dev-related
 
-* [dev.to](https://dev.to/corentinbettiol)
-
 * [personal website](https://l3m.in)
-
-* [stackoverflow](https://stackoverflow.com/users/6813732/sodimel)
 
 * [gitlab](https://gitlab.com/sodimel/)
 
+* [dev.to](https://dev.to/corentinbettiol)
+
+* [stackoverflow](https://stackoverflow.com/users/6813732/sodimel)
+
 ## social
 
-* [linkedin](https://www.linkedin.com/in/corentinbettiol)
+* [spacehey](https://spacehey.com/sodimel)
 
-* [twitter](https://twitter.com/sodimel)
+* [mastodon](https://mamot.fr/@sodimel)
+
+## misc
+
+* [My own instance of Share Links](https://links.l3m.in) (kinda like a shaarli clone in django)
+
+* [Repo of Share Links](https://gitlab.com/sodimel/share-links)
 
 ----
 
-# dev.to blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [DjangoCMS FAQ](https://dev.to/corentinbettiol/djangocms-faq-4g6b)
-- [How to hide a tag on dev.to](https://dev.to/corentinbettiol/how-to-hide-a-tag-on-dev-to-2fc8)
-- [What do you think about 1MB.club?](https://dev.to/corentinbettiol/what-do-you-think-about-1mb-club-4fjn)
-- [Share some blazing fast and lightweight websites](https://dev.to/corentinbettiol/share-some-blazing-fast-and-lightweight-websites-17g7)
-- [What is the lighthouse score of your porfolio/personal website &lpar;and why&rpar;?](https://dev.to/corentinbettiol/what-is-the-lighthouse-score-of-your-porfolio-and-why-5h9f)
-<!-- BLOG-POST-LIST:END -->
 
 
 ----
